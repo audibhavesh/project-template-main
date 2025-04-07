@@ -10,3 +10,24 @@
 [submodule "plugins"]
 	path = plugins
 	url = https://github.com/kadamankit/plugins.git
+[submodule "AndroidJetpackTemplate"]
+	path = AndroidJetpackTemplate
+	url = https://github.com/audibhavesh/AndroidJetpackTemplate.git
+[submodule "flutter-bloc-template"]
+	path = flutter-bloc-template
+	url = https://github.com/audibhavesh/flutter-bloc-template.git
+[submodule "flutter-provider-template"]
+	path = flutter-provider-template
+	url = https://github.com/audibhavesh/flutter-provider-template.git
+[submodule "ProjectTemplateHiltNative"]
+	path = ProjectTemplateHiltNative
+	url = https://github.com/audibhavesh/ProjectTemplateHiltNative.git
+[submodule "ProjectTemplateWithDaggerNative"]
+	path = ProjectTemplateWithDaggerNative
+	url = https://github.com/audibhavesh/ProjectTemplateWithDaggerNative.git
+[submodule "ProjectTemplateCLI"]
+	path = ProjectTemplateCLI
+	url = https://github.com/audibhavesh/ProjectTemplateCLI.git
+[submodule "dagger-processor"]
+	path = dagger-processor
+	url = https://github.com/audibhavesh/dagger-processor.git
