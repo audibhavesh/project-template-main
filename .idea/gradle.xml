@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/android-native-dagger" />
+        <option name="gradleJvm" value="corretto-19" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/android-native-dagger" />
+            <option value="$PROJECT_DIR$/android-native-dagger/app" />
+            <option value="$PROJECT_DIR$/android-native-dagger/examples" />
+            <option value="$PROJECT_DIR$/android-native-dagger/examples/cat-facts" />
+            <option value="$PROJECT_DIR$/android-native-dagger/library" />
+            <option value="$PROJECT_DIR$/android-native-dagger/library/base" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/android-native-hilt" />
+        <option name="gradleJvm" value="corretto-19" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/android-native-hilt" />
+            <option value="$PROJECT_DIR$/android-native-hilt/app" />
+            <option value="$PROJECT_DIR$/android-native-hilt/examples" />
+            <option value="$PROJECT_DIR$/android-native-hilt/examples/cats-facts" />
+            <option value="$PROJECT_DIR$/android-native-hilt/library" />
+            <option value="$PROJECT_DIR$/android-native-hilt/library/base" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

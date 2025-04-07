@@ -1,0 +1,12 @@
+[submodule "android-native-dagger"]
+	path = android-native-dagger
+	url = https://github.com/audibhavesh-fermion/android-native-dagger
+[submodule "android-native-hilt"]
+	path = android-native-hilt
+	url = https://github.com/audibhavesh-fermion/android-native-hilt.git
+[submodule "template-cli"]
+	path = template-cli
+	url = https://github.com/audibhavesh-fermion/template-cli.git
+[submodule "plugins"]
+	path = plugins
+	url = https://github.com/kadamankit/plugins.git
